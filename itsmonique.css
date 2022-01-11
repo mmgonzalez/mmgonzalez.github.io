@@ -61,18 +61,7 @@ ul {	padding-left: 3em;
 dl {	padding-left: 3em;
 	padding-right: 2em; }
 img {	padding-left: 10px;
-	padding-right: 10px; }
-#heroroad { background-image: url(heroroad.jpg);
-		background-repeat: no-repeat;
-		background-size: 100% 100%; 
-		height: 250px; }
-#header { background-image: url(Monique.jpg);
-		background-repeat: no-repeat;
-		background-size: 100% 100%; 
-		height: 250px; }
-#heroguitar { background-image: url(heroguitar.jpg);
-		background-repeat: no-repeat;
-		background-size: 100% 100%; 
+	padding-right: 10px; } 
 		height: 250px; }
 .details { padding-left: 20%;
 	   padding-right: 20%; 
